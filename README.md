@@ -1,4 +1,5 @@
 **to run stable diffusion webUi as an API server, follow this step -**
+
 #create python virtual environment
 #install requirement file to install necessary dependencies 
 #finally run - **python3 launch.py --nowebui --skip-torch-cuda-test**
@@ -17,5 +18,6 @@
 
 
 **On React side :**
+
 #i have set up the proxy on package.json to allow cors policy
 #Please run react app from **npm start** from termial to access ui and image generation APIs
