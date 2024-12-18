@@ -20,5 +20,8 @@
 **On React side :**
 
 #i have set up the proxy on package.json to allow cors policy
+
 #Please run react app from **npm start** from termial to access ui and image generation APIs
+
 #this simple react app has dashboard option as well which will show the the previous prompt and images as well(only for current user)
+
